@@ -1,0 +1,3 @@
+1,testuser1,grupotest,contrasena,bash,coment
+2,testuser2,grupotest,contrasena,bash,coment
+3,testuser3,grupotest,contrasena,bash,coment
